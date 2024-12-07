@@ -1,0 +1,18 @@
+{
+  "name": "trello-be",
+  "version": "1.0.0",
+  "description": "Trello Concept API",
+  "main": "src/index.js",
+  "author": "Vinicius",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-async-errors": "^3.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
